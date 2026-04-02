@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Moroz Yevhen
 
 🎓 Computer Science student specializing in **Data Science**  
