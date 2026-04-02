@@ -1,38 +1,110 @@
 ## Hi there 👋
-RESUME
-Moroz Yevhen Olegovich
-Date of birth: January 14, 2006
-Phone: +380 (68) 989-70-36
-Email: horon7624@gmail.com
-Git Portfolio: https://github.com/yevhen-moroz
-Education:
-	2023 – present (expected year of completion – June 2027) – State University of Economics and Technology, specialty 122 "Computer Science" degree program in “Data Science”, bachelor's degree, full-time study, currently completing the 3rd year of study (expected completion: June 2026), from September 2027 – 4rth year. 
-Additional education:
-—	Software Tester (QA) Course, IT STEP Academy, 2023 (28.02.2023 - 10.09.2023).
-—	2025 – present (17.11.2025 - 10.06.2026) – GoIT  Python Data Science and Machine Learning. Flexible format. Relevant skills: Python, SQL, MongoDB, Slack.
-Projects:
-—	Research Presentation (2024) – Participation in the VII International Scientific Congress "Society of Ambient Intelligence 2024" with a report on the topic "Testing the compliance of the database with the requirements of business logic". Materials of the report are available on request. (presented in Ukrainian) 
-—	Research Presentation (2025) – Participation in the VIII International Scientific Congress "Society of Ambient Intelligence 2025" with a report on the topic "Integration of SQL technologies in game development: architectural, analytical, and technological aspects". 
-Materials of the report are available on request. (presented in Ukrainian) 
-Knowledge of languages:
-—	English – B1 (constantly improving); 
-—	Ukrainian is native.
-Professional skills:
-—	Software testing: QA basics, test script creation, test design techniques, test methods, types of testing (functional, non-functional and their types),STLC,SDLC, test documentation;
-—	SQL: data extraction, transformation, and querying; understanding of relational databases, data modeling, and query optimization. SQLite;
-—	MongoDB: MongoDB Atlas, MongoDB Compass, Working with NoSQL document-based data, CRUD operations and basic data modeling;
-—	Python programming skills: OOP, basic scripting and analysis, serialization, data processing, web scraping;
-—	Mathematics: NumPy for numerical computations and basic data analysis;
-—	Version Control: Git;
-—	Containerization: Docker;
-—	Environment Management: Pipenv;
-—	Jupyter Notebook
-—	Collaboration Tools: Slack, Jira;
-—	Basic Data Engineering Fundamentals: basic understanding of data pipelines, ETL processes (extract, transform, load), data validation and consistency checks, working with structured and semi-structured data;
-—	English: reading technical documentation, basic spoken communication (B1 level).
-Personal qualities: reliability and responsibility, adaptability and flexibility, analytical thinking, attention to detail, quick learning, good organizational skills, effective communication and sociability, teamwork and collaboration skills, high level of diligence and focus, willingness to learn and adapt.
-Certificates and diplomas (Materials of the report are available on request):
-—	Software Testing (QA) Course Completion Diploma, STEP Academy, 2023;
-—	Certificate of Participation VII International Scientific Congress "Society of Ambient Intelligence 2024", ISC SAI, 2024;
-—	English Language Proficiency Certificate, Pearson, 2024.
-—	Certificate of Participation VII International Scientific Congress "Society of Ambient Intelligence 2025", ISC SAI, 2025;
+# 👋 Hi, I'm Moroz Yevhen
+
+🎓 Computer Science student specializing in **Data Science**  
+📊 Aspiring **Data Engineer / Data Science Intern**  
+🐍 Focused on **Python, SQL, and data processing**
+
+---
+
+## 🚀 About Me
+
+I am a Computer Science student with a strong interest in data engineering, data analysis, and software testing.  
+I have hands-on experience with Python, SQL, and MongoDB, and I am currently expanding my knowledge in data pipelines, ETL processes, and machine learning.
+
+I enjoy working on data-driven tasks, building small projects, and continuously improving my technical skills through practice and research.
+
+---
+
+## 🛠️ Skills
+
+**Programming & Data:**
+- Python (OOP, scripting, data processing, web scraping)
+- SQL (data querying, data modeling, optimization)
+- MongoDB (CRUD operations, NoSQL data modeling)
+
+**Data Engineering Fundamentals:**
+- ETL (Extract, Transform, Load) concepts  
+- Data pipelines (basic understanding)  
+- Data validation and consistency checks  
+- Working with structured and semi-structured data  
+
+**Tools & Technologies:**
+- Git & GitHub  
+- Docker  
+- Jupyter Notebook  
+- Pipenv  
+
+**Software Testing:**
+- QA fundamentals  
+- Test case design  
+- Test documentation  
+- STLC / SDLC understanding  
+
+**Other:**
+- NumPy (numerical computations)  
+- Slack, Jira  
+
+---
+
+## 📂 Projects
+
+### 🔬 Research Presentation — Database Testing (2024)
+- Presented at the VII International Scientific Congress *“Society of Ambient Intelligence”*  
+- Topic: **Testing database compliance with business logic requirements**  
+- Focus on data integrity and validation  
+
+---
+
+### 🔬 Research Presentation — SQL in Game Development (2025)
+- Presented at the VIII International Scientific Congress  
+- Topic: **Integration of SQL technologies in game development**  
+- Covered architectural and analytical aspects of database usage  
+
+---
+
+## 📚 Education
+
+🎓 State University of Economics and Technology  
+Computer Science (Data Science track)  
+2023 – present (expected graduation: June 2027)
+
+---
+
+## 🎓 Additional Education
+
+- QA Course — IT STEP Academy (2023)  
+- Data Science & Machine Learning — GoIT (2025 – present)
+
+---
+
+## 🌍 Languages
+
+- Ukrainian — Native  
+- English — B1 (Intermediate, improving)
+
+---
+
+## 📜 Certificates
+
+- QA Course Completion Diploma — IT STEP Academy (2023)  
+- Pearson English Certificate — 2024  
+- Participation in International Scientific Congress (2024, 2025)
+
+---
+
+## 📫 Contact
+
+- Email: horon7624@gmail.com  
+- GitHub: https://github.com/yevhen-moroz  
+
+---
+
+## 💡 Personal Qualities
+
+- Responsible and reliable  
+- Strong analytical thinking  
+- Attention to detail  
+- Quick learning ability  
+- Teamwork and collaboration skills  
+- Adaptability and motivation to learn
