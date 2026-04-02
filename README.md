@@ -96,7 +96,8 @@ Computer Science (Data Science track)
 ## 📫 Contact
 
 - Email: horon7624@gmail.com  
-- GitHub: https://github.com/yevhen-moroz  
+- GitHub: https://github.com/yevhen-moroz
+- LinkedIn: https://www.linkedin.com/in/yevhen-moroz-18a108331/
 
 ---
 
