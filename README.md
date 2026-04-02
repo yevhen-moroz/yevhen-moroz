@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Moroz Yevhen
 
 🎓 Computer Science student specializing in **Data Science**  
-📊 Aspiring **Data Engineer / Data Science Intern**  
+📊 **Data Engineer / Data Science Intern**  
 🐍 Focused on **Python, SQL, and data processing**
 
 ---
