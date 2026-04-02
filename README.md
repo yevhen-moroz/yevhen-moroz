@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 About Me
-
+Data Engineer Intern | Data Science Intern| Python | SQL | MongoDB | Data Analysis | ETL Basics | English (B1)
+Open to relocation across Europe | Adaptable and willing to learn new languages and technologies
 I am a Computer Science student with a strong interest in data engineering, data analysis, and software testing.  
 I have hands-on experience with Python, SQL, and MongoDB, and I am currently expanding my knowledge in data pipelines, ETL processes, and machine learning.
-
 I enjoy working on data-driven tasks, building small projects, and continuously improving my technical skills through practice and research.
 
 ---
