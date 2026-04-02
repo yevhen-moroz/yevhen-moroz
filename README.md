@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Moroz Yevhen
+# 👋 Hi, I'm Yevhen Moroz 
 
 🎓 Computer Science student specializing in **Data Science**  
 📊 **Data Engineer / Data Science Intern**  
