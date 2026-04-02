@@ -70,7 +70,7 @@ I enjoy working on data-driven tasks, building small projects, and continuously 
 ## 📚 Education
 
 🎓 State University of Economics and Technology  
-Computer Science (Data Science track)  
+Computer Science (Data Science program)  
 2023 – present (expected graduation: June 2027)
 
 ---
@@ -78,7 +78,7 @@ Computer Science (Data Science track)
 ## 🎓 Additional Education
 
 - QA Course — IT STEP Academy (2023)  
-- Data Science & Machine Learning — GoIT (2025 – present)
+- Python Data Science & Machine Learning — GoIT (2025 – present)
 
 ---
 
