@@ -23,7 +23,7 @@ I enjoy working on data-driven tasks, building small projects, and continuously 
 - MongoDB (CRUD operations, NoSQL data modeling)
 
 **Data Engineering Fundamentals:**
-- ETL (Extract, Transform, Load) concepts  
+- Basic ETL (Extract, Transform, Load) concepts  
 - Data pipelines (basic understanding)  
 - Data validation and consistency checks  
 - Working with structured and semi-structured data  
@@ -45,6 +45,11 @@ I enjoy working on data-driven tasks, building small projects, and continuously 
 - Slack, Jira  
 
 ---
+## 📂 Git Portfolio
+  - Python address book CLI assistant
+  - Task tracker SQLite database
+  - Data scraping(web) MongoDB pipeline, and MongoDB Python interactions
+      
 
 ## 📂 Projects
 
