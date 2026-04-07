@@ -22,12 +22,13 @@ I enjoy working on data-driven tasks, building small projects, and continuously 
 - Python (OOP, scripting, data processing, web scraping)
 - SQL (data querying, data modeling, optimization)
 - MongoDB (CRUD operations, NoSQL data modeling)
+- Pandas (data cleaning, filtering, groupby), Matplotlib;
 
 **Data Engineering Fundamentals:**
 - Basic ETL (Extract, Transform, Load) concepts  
 - Data pipelines (basic understanding)  
 - Data validation and consistency checks  
-- Working with structured and semi-structured data  
+- Working with structured and semi-structured data (JSON, CSV)  
 
 **Tools & Technologies:**
 - Git & GitHub  
@@ -46,10 +47,12 @@ I enjoy working on data-driven tasks, building small projects, and continuously 
 - Slack, Jira  
 
 ---
-## 📂 Git Portfolio
+## 📂 Git portfolio
   - Python address book CLI assistant
   - Task tracker SQLite database
-  - Data scraping(web) MongoDB pipeline, and MongoDB Python interactions
+  - Data scraping(WEB) MongoDB pipeline, and MongoDB Python interactions
+  - Feedforward Neuron Network
+  - Data Analysis with Pandas & Matplotlib
       
 
 ## 📂 Projects
@@ -86,7 +89,7 @@ Computer Science (Data Science program)
 ## 🌍 Languages
 
 - Ukrainian — Native  
-- English — B1 (Intermediate, improving)
+- English — B1 (Intermediate, constantly improving)
 
 ---
 
