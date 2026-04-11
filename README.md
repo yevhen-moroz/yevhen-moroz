@@ -23,6 +23,7 @@ I enjoy working on data-driven tasks, building small projects, and continuously 
 - SQL (data querying, data modeling, optimization)
 - MongoDB (CRUD operations, NoSQL data modeling)
 - Pandas (data cleaning, filtering, groupby), Matplotlib;
+- NumPy (numerical computations) 
 
 **Data Engineering Fundamentals:**
 - Basic ETL (Extract, Transform, Load) concepts  
@@ -40,10 +41,12 @@ I enjoy working on data-driven tasks, building small projects, and continuously 
 - QA fundamentals  
 - Test case design  
 - Test documentation  
-- STLC / SDLC understanding  
+- STLC / SDLC understanding
+  
+**Data warehousing:** 
+- BigQuery
 
-**Other:**
-- NumPy (numerical computations)  
+**Other:** 
 - Slack, Jira  
 
 ---
