@@ -9,10 +9,11 @@
 ## 🚀 About Me
 Data Engineer Intern | Data Science Intern| Python | SQL | MongoDB | Data Analysis | ETL Basics | English (B1)
 
-Open to relocation across Europe | Adaptable and willing to learn new languages and technologies
+Open to internship| Open to relocation across Europe | Adaptable and willing to learn new languages and technologies
+
 I am a Computer Science student with a strong interest in data engineering, data analysis, and software testing.  
 I have hands-on experience with Python, SQL, and MongoDB, and I am currently expanding my knowledge in data pipelines, ETL processes, and machine learning.
-I enjoy working on data-driven tasks, building small projects, and continuously improving my technical skills through practice and research.
+I enjoy working on data-driven products and continuously improving my technical skills through practice and research.
 
 ---
 
@@ -50,11 +51,11 @@ I enjoy working on data-driven tasks, building small projects, and continuously 
 - Slack, Jira  
 
 ---
-## 📂 Git portfolio
-  - Python address book CLI assistant
+## 📂 Featured Projects 
+  - Python address book CLI assistant. 
   - Task tracker SQLite database
   - Data scraping(WEB) MongoDB pipeline, and MongoDB Python interactions
-  - Feedforward Neuron Network
+  - Feedforward Neuron Network. 
   - Data Analysis with Pandas & Matplotlib
       
 
@@ -109,6 +110,7 @@ Computer Science (Data Science program)
 - Email: horon7624@gmail.com  
 - GitHub: https://github.com/yevhen-moroz
 - LinkedIn: https://www.linkedin.com/in/yevhen-moroz-18a108331/
+- Telegram: @Ya_vaflya
 
 ---
 
