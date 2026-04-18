@@ -52,6 +52,7 @@ I enjoy working on data-driven products and continuously improving my technical 
 
 ---
 ## 📂 Featured Projects 
+  - Genshin Impact Dataset Data Pipeline
   - Python address book CLI assistant. 
   - Task tracker SQLite database
   - Data scraping(WEB) MongoDB pipeline, and MongoDB Python interactions
