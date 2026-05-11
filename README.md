@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Yevhen Moroz 
 
-🎓 Computer Science student specializing in **Data Science**  
-📊 **Data Engineer / Data Science Intern**  
+🎓 Computer Science student specializing in **Data Science and Data Engineer**  
+📊 **Data Engineer / Data Science**  
 🐍 Focused on **Python, SQL, and data processing**
 
 ---
 
 ## 🚀 About Me
-Data Engineer Intern | Data Science Intern| Python | SQL | MongoDB | Data Analysis | ETL Basics | English (B1)
+Data Engineer| Data Science
+Python | SQL | MongoDB | BigQuery | ETL Basics | English (B1)
 
-Open to internship| Open to relocation across Europe | Adaptable and willing to learn new languages and technologies
+Open to internship and jod offers| Open to relocation across Europe | Adaptable and willing to learn new languages and technologies
 
 I am a Computer Science student with a strong interest in data engineering, data analysis, and software testing.  
 I have hands-on experience with Python, SQL, and MongoDB, and I am currently expanding my knowledge in data pipelines, ETL processes, and machine learning.
@@ -24,7 +25,8 @@ I enjoy working on data-driven products and continuously improving my technical 
 - SQL (data querying, data modeling, optimization)
 - MongoDB (CRUD operations, NoSQL data modeling)
 - Pandas (data cleaning, filtering, groupby), Matplotlib;
-- NumPy (numerical computations) 
+- NumPy (numerical computations)
+- Machine Learning Fundamentals: basic experience with scikit-learn, data preprocessing, model training workflows, and supervised learning concepts.
 
 **Data Engineering Fundamentals:**
 - Basic ETL (Extract, Transform, Load) concepts  
@@ -46,9 +48,10 @@ I enjoy working on data-driven products and continuously improving my technical 
   
 **Data warehousing:** 
 - BigQuery
+- dbt (basic data modeling and transformations)
 
 **Other:** 
-- Slack, Jira  
+- Slack, Jira
 
 ---
 ## 📂 Featured Projects 
@@ -60,7 +63,7 @@ I enjoy working on data-driven products and continuously improving my technical 
   - Feedforward Neuron Network 
       
 
-## 📂 Projects
+## 📂 Academic research
 
 ### 🔬 Research Presentation — Database Testing (2024)
 - Presented at the VII International Scientific Congress *“Society of Ambient Intelligence”*  
@@ -81,6 +84,8 @@ I enjoy working on data-driven products and continuously improving my technical 
 🎓 State University of Economics and Technology  
 Computer Science (Data Science program)  
 2023 – present (expected graduation: June 2027)
+Currently remote.
+
 
 ---
 
